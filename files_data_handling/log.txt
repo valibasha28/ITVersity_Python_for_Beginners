@@ -1,0 +1,4 @@
+New log entry..
+Log entry 2
+Log entry 3
+Log entry 4

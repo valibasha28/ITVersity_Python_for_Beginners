@@ -1,0 +1,5 @@
+{
+    "api_key": "my_api_key",
+    "timeout": 20,
+    "retries": 5
+}

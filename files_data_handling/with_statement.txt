@@ -1,0 +1,2 @@
+This file is created using the with statement
+The with statement ensures the file is properly closed.
